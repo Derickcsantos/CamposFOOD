@@ -28,10 +28,10 @@ Este projeto foi desenvolvido com foco em uma navegação simples e design respo
 | **Tecnologias**  | **Ferramentas**    |
 |:-----------------|:-------------------|
 | HTML5            | Visual Studio Code |
-| CSS3             | ChatGPT            | 
-| JavaScript       | Google Fonts       |
-|                  | Web3Forms          |
-|                  | Vercel             |
+| CSS3             | Vercel             |
+| JavaScript       | Font awesome       |
+|                  | Recaptcha          |
+|                  | Vlibras            |
 
 ---
 
