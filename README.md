@@ -30,8 +30,8 @@ Este projeto foi desenvolvido com foco em uma navegação simples e design respo
 | HTML5            | Visual Studio Code |
 | CSS3             | Vercel             |
 | JavaScript       | Font awesome       |
-|                  | Recaptcha          |
 |                  | Vlibras            |
+
 
 ---
 
